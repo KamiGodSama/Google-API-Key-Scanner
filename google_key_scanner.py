@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 All-in-One Google API Key Scanner
-Combines checks from KeyHacks & gmapsapiscanner
 For authorized security assessments only.
 """
 
